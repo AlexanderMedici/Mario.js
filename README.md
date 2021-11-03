@@ -1,6 +1,6 @@
 
 # Mario Game 
-The main aim of this project was to use javascript in a way that is a bit unconventional as javascript is inteneded to give interactivity to a webpage, game logic is a lot more dense and involves a lot more moving parts. 
+The main goal of this project was to use javascript in a way that is a bit unconventional as javascript is inteneded to give interactivity to a webpage, game logic is a lot more dense and involves a lot more moving parts. 
 Adding to its complexity learning a library such as kaboom.js.
 
 Kaboom.js is a JavaScript library that was used to  make  this game.This library allowed me to create scenes, add layers, create sprites, deal with actions and collisions, adding key events.
