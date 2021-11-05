@@ -26,3 +26,11 @@ A simple Preview
  [Left] Move Left\
  [Right] Move Right
  
+ ## Takeaways
+ This project gave me a new avenue to explore with javascript kabbom.js is really great for getting started in 2D and even 3D. Mario is an alltime classic game from my childhood. So that made fighting the bugs less painfull and worth it. 
+ 
+ 
+ ## Improvements
+I did not commit often on this project kept thinking I could do it without running into too many problems... That was Wrong. 
+The player can fall of the edges and mario will die So have to fix that.
+Mario lacks a jumpling sprite and running animation. 
