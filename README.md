@@ -2,8 +2,7 @@
 # Mario Game 
 The main goal of this project was to get a better sense of javascript and begin learning Kaboom.js as this library came highly recommended. 
 
-Kaboom.js is a library that allowed me to use a lot of thier built-in functions.Creating scenes, adding layers, create sprites, deal with actions and collisions, adding key events.
-I enjoyed  geting into the world of game development by using Kaboom.js there is a learning curve but the documentation is solid. 
+Kaboom.js is a library that allowed me to use a lot of thier built-in functions.Creating scenes, adding layers, create sprites, dealing with actions, collisions, adding key events. I enjoyed  geting into the world of game development by using Kaboom.js there is a learning curve but the documentation is solid. 
 
 
 ## Technologies Used
