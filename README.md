@@ -29,10 +29,10 @@ A simple Preview
  
  
  ## Improvements
-I did not commit often on this project kept thinking I could do it without running into too many problems... That was Wrong. 
-The player can fall of the edges and mario will die So have to fix that.
-Mario lacks a jumpling sprite and running animation. 
-Evil-Mushrooms keep walking and floating along even after they have no ground to walk on.
+I did not commit often on this project kept thinking I could do it without running into too many problems... That was Wrong.\
+The player can fall of the edges and mario will die So have to fix that.\
+Mario lacks a jumpling sprite and running animation.\ 
+Evil-Mushrooms keep walking and floating along even after they have no ground to walk on.\
 
 
 ## Final Thoughts
