@@ -1,16 +1,4 @@
 
-# Mario Game 
-The main goal of this project was to get a better sense of Javascript HTML CSS and begin learning Kaboom.js as this library came highly recommended. 
-
-Kaboom.js is a library that allowed me to use a lot of thier built-in functions.Creating scenes, adding layers, creating sprites, dealing with actions, collisions, adding key events. I enjoyed  geting into the world of game development by using Kaboom.js there is a learning curve but the documentation is solid. 
-
-
-## Technologies Used
-
-[![Made with JavaScript](https://img.shields.io/badge/Made_with-JavaScript-blue?logo=javascript&logoColor=white)](https://www.javascript.com/)
-[![Made with - Kaboom.js](https://img.shields.io/static/v1?label=Made+with&message=Kaboom.js&color=2ea44f)](https://kaboomjs.com/)
-![License](https://img.shields.io/github/license/AlexanderMedici/E-commerce-.svg?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/AlexanderMedici/E-commerce-.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/AlexanderMedici/E-commerce-.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/AlexanderMedici/E-commerce-.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/AlexanderMedici/E-commerce-.svg?style=for-the-badge)
-    
 # Mario There and back Again
 
 ## Table of Contents
@@ -26,6 +14,7 @@ Kaboom.js is a library that allowed me to use a lot of thier built-in functions.
 
 ## Project-Website 
 [Project-Website-Link]("https://shopfare.netlify.app/")
+<a href="https://shopfare.netlify.app/">Mario Website Link</a>
 
 ## Features
 
