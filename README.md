@@ -18,7 +18,9 @@
 
 ## Features
 
-Mario There and Back Again is a standalone static page online game. Collisions, sprites, a scoring system. You take on the character from an absolute classic game Mario. Fight Evil Mushrooms, gather coins and explore new and challenging levels. 
+Mario There and Back Again is a standalone static page online game. Collisions, sprites, a scoring system. You take on the character from an absolute classic game Mario. Fight Evil Mushrooms, gather coins and explore new and challenging levels. A static website uses server-side rendering to serve pre-built HTML, CSS, and JavaScript files to a web browser, in contrast to traditional dynamic sites that work by rendering the webpage at the time of the request.
+
+[Static vs Dynamic Web Pages ?](url "https://www.freecodecamp.org/news/static-vs-dynamic-web-pages/")
 
 ## Description
 Mario takes advantage of Kabbomjs built-in library functions which simplify game development for 2D or even 3D game assets. The documentation provided is helpful. Camera positioning, collisions, movement, in-game power-ups are made available and work wonderfully. Unity and Unreal game engine are the gold standards for game devs. Kaboom is very close to having a real impact in nostalgic games and homebrew custom games.   
