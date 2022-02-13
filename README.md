@@ -13,8 +13,8 @@
 - [Contact Me](#contact-me)
 
 ## Project-Website 
-[Project-Website-Link]("https://shopfare.netlify.app/")
-<a href="https://shopfare.netlify.app/">Mario Website Link</a>
+[Project-Website-Link]
+<a href="https://marioisback.netlify.app/">Mario Website Link</a>
 
 ## Features
 
