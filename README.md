@@ -26,7 +26,6 @@
  <li>Character is able to become larger and smaller in game</li> 
  <li>Multiple levels with multiple scenes with use of built in kaboom</li>
 </ul>
-[Static vs Dynamic Web Pages ?](url "https://www.freecodecamp.org/news/static-vs-dynamic-web-pages/")
 
 ## Description
 
