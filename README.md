@@ -18,18 +18,24 @@
 
 ## Features
 
-Mario There and Back Again is a standalone static page online game. Collisions, sprites, a scoring system. You take on the character from an absolute classic game Mario. Fight Evil Mushrooms, gather coins and explore new and challenging levels. A static website uses server-side rendering to serve pre-built HTML, CSS, and JavaScript files to a web browser, in contrast to traditional dynamic sites that work by rendering the webpage at the time of the request.
-
+<ul>
+ <li>Sprits allow two-dimensional computer graphics</li>
+  <li>Build-in kaboom feature allows camera to follow the character perfectly </li> 
+ <li>Build-in kaboom feature allows for object collisions within game</li> 
+ <li>Scoring system allows player to keep track of coins/ points mario collects in game </li> 
+ <li>Character is able to become larger and smaller in game</li> 
+ <li>Multiple levels with multiple scenes with use of built in kaboom</li>
+</ul>
 [Static vs Dynamic Web Pages ?](url "https://www.freecodecamp.org/news/static-vs-dynamic-web-pages/")
 
 ## Description
-Mario takes advantage of Kabbomjs built-in library functions which simplify game development for 2D or even 3D game assets. The documentation provided is helpful. Camera positioning, collisions, movement, in-game power-ups are made available and work wonderfully. Unity and Unreal game engine are the gold standards for game devs. Kaboom is very close to having a real impact in nostalgic games and homebrew custom games.   
-[What is Kaboomjs ?](url "https://kaboomjs.com/")
+
+This computer game is a nostalgic throwback of the 1980's classic Mario. The static website integrates server-side rendering to serve pre-built HTML, CSS, and JavaScript files. Mario takes advantage of Kabbomjs built-in library functions which simplify game development for 2D or even 3D game assets.  Camera positioning, collisions, movement, and in-game power-ups are all made available in this game and integrate smoothly. 
+
 <BR/>
 
 ## Use Case
-This project is more specialized as homebrew games have a demographic especially if you played that game as a child now you can edit modify the game. Mario is a classic game and all the bugs and research time spent on its creation were well worth it. Kaboom is perfect for entry into game development building browser games helps to learn fundamental principles before more complex game development. 
- 
+This project is more specialized as a homebrew game targeted for nostalgic millennials or younger children who enjoy the simplicity of retro 1980's to early 1990's themed games. Integrating Kaboom library into built-in browser games allows for flexibility and customization. As such, this game could be customized and used to entertain at functions, or parties. 
 
 ## Technologies Used
 
